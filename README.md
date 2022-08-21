@@ -4,7 +4,7 @@
 
 Submitted by: **Sathwik Yanamaddi**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -15,10 +15,10 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://camo.githubusercontent.com/34bb48ecbbfd5ddf49e8b4bd782c0a26a708e5b652960612cda229925ba90361/687474703a2f2f672e7265636f726469742e636f2f6459593239777771714c2e676966' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Sathwik Yanamaddi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
